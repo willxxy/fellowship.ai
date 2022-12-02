@@ -1,2 +1,2 @@
 # fellowship.ai
-Fellowship.ai Application Challenge Cohort 25
+Fellowship.ai Application NLP Challenge Cohort 25 2022
