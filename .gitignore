@@ -1,2 +1,6 @@
 ### DATA
 *.csv
+
+### hidden files
+.env/
+.ipynb_checkpoints/
