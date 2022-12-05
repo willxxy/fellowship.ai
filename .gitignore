@@ -4,3 +4,6 @@
 ### hidden files
 .env/
 .ipynb_checkpoints/
+
+### models
+*.pth
